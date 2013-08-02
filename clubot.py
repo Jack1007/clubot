@@ -14,7 +14,8 @@
 #     + 添加连接之前清除状态表
 # 2012-11-19 14:00
 #     * 修复断开自动重启
-#
+#edit by eclipse+pydev
+
 from __future__ import absolute_import
 
 import logging
